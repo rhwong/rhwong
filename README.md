@@ -8,6 +8,6 @@
 
 公益的EasyN2N和Drawpile服务器
 
-[rhwong/Qsign-onekey](https://github.com/rhwong/qsign-onekey)https://github.com/rhwong/qsign-onekey 
+[rhwong/Qsign-onekey](https://github.com/rhwong/qsign-onekey)
 
 贰狐の食堂 - 食用指南 https://docs.foxdice.cn
