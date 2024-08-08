@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-青叶核心，现已入住爱发电 https://afdian.net/a/aobacore
+青叶核心，现已入住爱发电 https://afdian.com/a/aobacore
 
 正在创作：
 
